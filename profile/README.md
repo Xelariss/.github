@@ -16,14 +16,25 @@ Somos **Xelaris**, un estudio de desarrollo de software especializado en diseña
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto | Descripción | Enlace / Estado |
-| :--- | :--- | :--- |
-| **🧾 Punto de Venta** | Control total de ventas, stock, caja, reportes y facturación electrónica integrada con ARCA. | *Sistema a medida* |
-| **💳 Facturación** | Sistemas de facturación ágiles, intuitivos y conectados directamente a tu operación diaria. | *Sistema a medida* |
-| **🏗 Gestión de Obras** | Seguimiento integral de proyectos, control de tareas y avances en tiempo real en un solo lugar. | *Sistema a medida* |
-| **⚽ Canchas Libres** | Plataforma interactiva para organizar partidos, sumar jugadores y armar equipos al instante. | [Visitar sitio](https://canchaslibres.com.ar) |
+<br>
 
----
+### 🧾 Punto de Venta
+> Control total de ventas, stock, caja, reportes y facturación electrónica integrada con ARCA.
+* **Estado:** Sistema a medida / Privado
+
+### 💳 Facturación
+> Sistemas de facturación ágiles, intuitivos y conectados directamente a tu operación diaria.
+* **Estado:** Sistema a medida / Privado
+
+### 🏗 Gestión de Obras
+> Seguimiento integral de proyectos, control de tareas y avances en tiempo real en un solo lugar.
+* **Estado:** Sistema a medida / Privado
+
+### ⚽ Canchas Libres
+> Plataforma interactiva para organizar partidos, sumar jugadores y armar equipos al instante.
+* **Enlace:** [Canchas Libres](https://canchaslibres.com.ar)
+
+<br>
 
 ## 💡 Cómo Trabajamos
 
