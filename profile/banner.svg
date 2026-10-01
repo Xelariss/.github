@@ -15,8 +15,8 @@
 <g transform="translate(320,80) scale(0.270140)">
 <g stroke="#FFFFFF" stroke-width="72" stroke-linecap="round">
 <line x1="37.5" y1="207.5" x2="332.5" y2="479.5"></line>
-<line x1="32.5" y1="476.5" x2="327.5" y2="204.5"><animate attributeName="x2" values="327.5;327.5;180.9;180.9;327.5;327.5" keyTimes="0;0.3143;0.3571;0.8857;0.9714;1" calcMode="spline" keySplines="0 0 1 1;0.5 0 0.3 1;0 0 1 1;0.4 0 0.6 1;0 0 1 1" dur="7.0s" repeatCount="indefinite"/><animate attributeName="y2" values="204.5;204.5;339.7;339.7;204.5;204.5" keyTimes="0;0.3143;0.3571;0.8857;0.9714;1" calcMode="spline" keySplines="0 0 1 1;0.5 0 0.3 1;0 0 1 1;0.4 0 0.6 1;0 0 1 1" dur="7.0s" repeatCount="indefinite"/></line>
-<line x1="1688.5" y1="209" x2="1688.5" y2="480"><animate attributeName="y1" values="340;340;119.0;194;219;209;209;340" keyTimes="0;0.1429;0.1929;0.2429;0.2786;0.3071;0.8857;1" calcMode="spline" keySplines="0 0 1 1;0.5 0 0.9 0.6;0.2 0.6 0.4 1;0.4 0 0.6 1;0.4 0 0.6 1;0 0 1 1;0.4 0 0.6 1" dur="7.0s" repeatCount="indefinite"/></line>
+<line x1="32.5" y1="476.5" x2="327.5" y2="204.5"><animate attributeName="x2" values="327.5;327.5;180.9;180.9;327.5;327.5" keyTimes="0;0.2071;0.2929;0.8857;0.9714;1" calcMode="spline" keySplines="0 0 1 1;0.5 0 0.3 1;0 0 1 1;0.4 0 0.6 1;0 0 1 1" dur="7.0s" repeatCount="indefinite"/><animate attributeName="y2" values="204.5;204.5;339.7;339.7;204.5;204.5" keyTimes="0;0.2071;0.2929;0.8857;0.9714;1" calcMode="spline" keySplines="0 0 1 1;0.5 0 0.3 1;0 0 1 1;0.4 0 0.6 1;0 0 1 1" dur="7.0s" repeatCount="indefinite"/></line>
+<line x1="1688.5" y1="209" x2="1688.5" y2="480"><animate attributeName="y1" values="410;410;119.0;194;219;209;209;410" keyTimes="0;0.1429;0.1929;0.2429;0.2786;0.3071;0.8857;1" calcMode="spline" keySplines="0 0 1 1;0.5 0 0.9 0.6;0.2 0.6 0.4 1;0.4 0 0.6 1;0.4 0 0.6 1;0 0 1 1;0.4 0 0.6 1" dur="7.0s" repeatCount="indefinite"/></line>
 </g>
 <circle cx="324.5" cy="215.5" r="45" fill="none" stroke="#9A7CFF" stroke-width="7" opacity="0">
 <animate attributeName="r" values="45;45;144.0;144.0" keyTimes="0;0.3643;0.4857;1" dur="7.0s" repeatCount="indefinite"/>
