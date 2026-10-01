@@ -19,8 +19,8 @@ Somos **Xelaris**, un estudio de desarrollo de software especializado en diseña
 > Control total de ventas, stock, caja, reportes y facturación electrónica integrada con ARCA.
 * **Estado:** Sistema a medida / Privado
 
-### 💳 Facturix
-> Sistemas de facturación ágil que realiza facturación masiva mediante importación de Excel.
+### 💳 FacturiX
+> Sistemas de facturación masiva mediante importación de Excel.
 * **Estado:** Sistema a medida / Privado
 
 ### 🏗 Gestión de Obras
