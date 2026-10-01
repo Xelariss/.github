@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡%20Innovación%20y%20Software%20-%20Transformando%20tu%20negocio-6A4DF0?style=for-the-badge&logoColor=white" alt="Innovación y Software"/>
+<img src="https://img.shields.io/badge/⚡%20Innovación%20y%20Software%20-%20Transformando%20tu%20negocio-6A4DF0?style=for-the-badge&logoColor=white" alt="Innovación y Software"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xelariss/.github/main/profile/banner.svg" width="100%" alt="Xelaris Banner"/>
+<img src="https://raw.githubusercontent.com/Xelariss/.github/main/profile/banner.svg?v=2" width="100%" alt="Xelaris Banner"/>
 </p>
 
 <br/>
@@ -49,11 +49,11 @@ Nuestra metodología combina cercanía con altos estándares de desarrollo:
 Utilizamos herramientas modernas y robustas para garantizar rendimiento, escalabilidad y calidad en cada desarrollo:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,html,css,git,github&theme=dark" alt="Tecnologías de Xelaris"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,html,css,git,github&theme=dark" alt="Tecnologías de Xelaris"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:1e1b4b,100:6A4DF0&height=120&section=footer&text=Xelaris&fontSize=28&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%" alt="Xelaris Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:1e1b4b,100:6A4DF0&height=120&section=footer&text=Xelaris&fontSize=28&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%" alt="Xelaris Footer"/>
 </p>
