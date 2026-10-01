@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Xelariss/.github/e6fb8d3f3aab997f0bab00daead6aa6c4a87f4ec/profile/banner.svg" width="100%" alt="Xelaris Banner"/>
+<img src="https://raw.githubusercontent.com/Xelariss/.github/b39df6ac2db3680a3a80076d452d4c9af2f3c73b/profile/banner.svg" width="100%" alt="Xelaris Banner"/>
 </p>
 
 <br/>
