@@ -10,7 +10,7 @@
 
 ## 👋 Quiénes Somos
 
-Somos **Xelaris**, un estudio de desarrollo de software especializado en diseñar y construir soluciones a medida para pymes y comercios. Creamos herramientas tecnológicas robustas y eficientes que se usan todos los días, optimizan el tiempo y escalan junto a cada negocio.
+Somos **Xelaris**, una empresa de desarrollo de software especializado en diseñar y construir soluciones a medida para pymes y comercios. Creamos herramientas tecnológicas robustas y eficientes que se usan todos los días, optimizan el tiempo y escalan junto a cada negocio.
 
 ---
 ## 🚀 Proyectos Destacados
