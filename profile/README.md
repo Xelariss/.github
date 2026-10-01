@@ -3,36 +3,49 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xelariss/.github/main/profile/banner.svg" width="100%" alt="Xelaris"/>
+  <img src="https://raw.githubusercontent.com/Xelariss/.github/main/profile/banner.svg" width="100%" alt="Xelaris Banner"/>
 </p>
 
-
-<br/>
-👋 Quiénes somos
-
-Somos Xelaris, un estudio de desarrollo de software. Diseñamos y construimos soluciones a medida para pymes y comercios: sistemas que se usan todos los días, que ahorran tiempo y que crecen junto con cada negocio.
-
 <br/>
 
-🚀 Algunos de nuestros proyectos:
+## 👋 Quiénes Somos
 
-* **🧾 Punto de venta:** Ventas, stock, caja, reportes y factura electrónica integrada con ARCA.
-* **💳 Facturación:** Sistemas de facturación simples, rápidos y conectados a tu operación.
-* **🏗️️ Gestión de obras:** Seguimiento y control de proyectos, tareas y avances en un solo lugar.
-* **⚽ [Canchas Libres](https://canchaslibres.com.ar):** Plataforma para organizar partidos, sumar jugadores y armar equipos en tiempo real.
+Somos **Xelaris**, un estudio de desarrollo de software especializado en diseñar y construir soluciones a medida para pymes y comercios. Creamos herramientas tecnológicas robustas y eficientes que se usan todos los días, optimizan el tiempo y escalan junto a cada negocio.
 
-💡 Cómo trabajamos
-<br/>
-🎯 A medida	
-<br/>
-⚡ Ágil
-<br/>
-🤝 Cercano
-<br/>
-🔒 Confiable
-<br/>
-Cada sistema se adapta a tu negocio	Entregas rápidas y mejoras continuas	Soporte directo con el equipo	Datos seguros y código mantenible
-<br/>
+---
 
-🛠️ Tecnologías
-<p align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,html,css,git,github&theme=dark" alt="Tecnologías"/> </p> <br/> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=120&section=footer&text=Xelaris&fontSize=28&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%" alt="Xelaris"/> </p>
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Enlace / Estado |
+| :--- | :--- | :--- |
+| **🧾 Punto de Venta** | Control total de ventas, stock, caja, reportes y facturación electrónica integrada con ARCA. | *Sistema a medida* |
+| **💳 Facturación** | Sistemas de facturación ágiles, intuitivos y conectados directamente a tu operación diaria. | *Sistema a medida* |
+| **🏗 Gestión de Obras** | Seguimiento integral de proyectos, control de tareas y avances en tiempo real en un solo lugar. | *Sistema a medida* |
+| **⚽ Canchas Libres** | Plataforma interactiva para organizar partidos, sumar jugadores y armar equipos al instante. | [Visitar sitio](https://canchaslibres.com.ar) |
+
+---
+
+## 💡 Cómo Trabajamos
+
+Nuestra metodología combina cercanía con altos estándares de desarrollo:
+
+* **🎯 A medida:** Cada sistema se adapta perfectamente a la lógica y necesidades de tu negocio.
+* **⚡ Ágil:** Foco en entregas rápidas, iteraciones constantes y mejoras continuas.
+* **🤝 Cercano:** Soporte directo y comunicación fluida con el equipo de desarrollo.
+* **🔒 Confiable:** Garantizamos la seguridad de tus datos y una arquitectura de código mantenible.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+Utilizamos herramientas modernas y robustas para garantizar rendimiento, escalabilidad y calidad en cada desarrollo:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,html,css,git,github&theme=dark" alt="Tecnologías de Xelaris"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=120&section=footer&text=Xelaris&fontSize=28&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%" alt="Xelaris Footer"/>
+</p>
