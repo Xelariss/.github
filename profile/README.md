@@ -30,9 +30,9 @@ Somos **Xelaris**, un estudio de desarrollo de software especializado en diseña
 > Seguimiento integral de proyectos, control de tareas y avances en tiempo real en un solo lugar.
 * **Estado:** Sistema a medida / Privado
 
-### ⚽ Canchas Libres
-> Plataforma interactiva para organizar partidos, sumar jugadores y armar equipos al instante.
-* **Enlace:** [Canchas Libres](https://canchaslibres.com.ar)
+### ⚽ CanchasLibres
+> Turnos del día, ingresos y gastos, reservas recurrentes, carga manual, exportación a Excel y perfil público con QR.
+* **Enlace:** [CanchasLibres](https://canchaslibres.com.ar)
 
 <br>
 
