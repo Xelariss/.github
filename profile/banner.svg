@@ -22,7 +22,8 @@
 <animate attributeName="r" values="45;45;144.0;144.0" keyTimes="0;0.3643;0.4857;1" dur="7.0s" repeatCount="indefinite"/>
 <animate attributeName="opacity" values="0;0;.8;0;0" keyTimes="0;0.3643;0.3786;0.4857;1" dur="7.0s" repeatCount="indefinite"/>
 </circle>
-<circle cx="0" cy="0" r="45" fill="#9A7CFF" opacity="0">
+<circle cx="0" cy="0" r="45" fill="#FFFFFF" opacity="0">
+<animate attributeName="fill" values="#FFFFFF;#FFFFFF;#9A7CFF;#9A7CFF;#FFFFFF;#FFFFFF" keyTimes="0;0.2143;0.3643;0.9429;0.9500;1" dur="7.0s" repeatCount="indefinite"/>
 <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.0571;0.8857;0.9429;1" dur="7.0s" repeatCount="indefinite"/>
 <animateMotion path="M1688.5,187 Q1006.5,-260 324.5,215.5" dur="7.0s" repeatCount="indefinite" calcMode="spline" keyPoints="0;0;1;1" keyTimes="0;0.1929;0.3643;1" keySplines="0 0 1 1;0.2 0.4 0.4 1;0 0 1 1"/>
 </circle>
