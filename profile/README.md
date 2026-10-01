@@ -47,5 +47,5 @@ Utilizamos herramientas modernas y robustas para garantizar rendimiento, escalab
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=120&section=footer&text=Xelaris&fontSize=28&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%" alt="Xelaris Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:1e1b4b,100:6A4DF0&height=120&section=footer&text=Xelaris&fontSize=28&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%" alt="Xelaris Footer"/>
 </p>
