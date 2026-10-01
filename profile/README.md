@@ -13,17 +13,14 @@
 Somos **Xelaris**, un estudio de desarrollo de software especializado en diseñar y construir soluciones a medida para pymes y comercios. Creamos herramientas tecnológicas robustas y eficientes que se usan todos los días, optimizan el tiempo y escalan junto a cada negocio.
 
 ---
-
 ## 🚀 Proyectos Destacados
-
-<br>
 
 ### 🧾 Punto de Venta
 > Control total de ventas, stock, caja, reportes y facturación electrónica integrada con ARCA.
 * **Estado:** Sistema a medida / Privado
 
-### 💳 Facturación
-> Sistemas de facturación ágiles, intuitivos y conectados directamente a tu operación diaria.
+### 💳 Facturix
+> Sistemas de facturación ágil que realiza facturación masiva mediante importación de Excel.
 * **Estado:** Sistema a medida / Privado
 
 ### 🏗 Gestión de Obras
@@ -31,7 +28,7 @@ Somos **Xelaris**, un estudio de desarrollo de software especializado en diseña
 * **Estado:** Sistema a medida / Privado
 
 ### ⚽ CanchasLibres
-> Turnos del día, ingresos y gastos, reservas recurrentes, carga manual, exportación a Excel y perfil público con QR.
+> Plataforma completa para gestionar complejos deportivos. Automatiza turnos del día, control de ingresos y gastos, reservas recurrentes, exportación a Excel y un perfil público interactivo.
 * **Enlace:** [CanchasLibres](https://canchaslibres.com.ar)
 
 <br>
